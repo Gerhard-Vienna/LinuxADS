@@ -15,7 +15,9 @@ for about 2 years and is quit stable.
 Building is straigt forward:
 
 ./configue
+
 make
+
 make install.
 
 There are no dependencies, except a reasonably sane build environment.
